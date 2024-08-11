@@ -18,7 +18,7 @@ $thumbnail[$userAvatar[$authorID]]
 \`$getServerVar[prefix]setprefix\` - Set Custom Prefix.]
 
 $color[RANDOM]
-$footer[Simple Moderation Bot | Subscribe Jastin Ch]
+$footer[Reflaktor Rewards ]
 $addTimestamp`
 
 }
